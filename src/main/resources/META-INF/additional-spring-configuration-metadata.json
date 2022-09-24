@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "envorinoment",
+      "type": "java.lang.String",
+      "description": "Description for envorinoment."
+  }
+] }
